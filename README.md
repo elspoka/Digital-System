@@ -1,2 +1,2 @@
 # Digital-System
-Digital Sound Pattern Detection System
+FFT implementention on Atmega328p 
